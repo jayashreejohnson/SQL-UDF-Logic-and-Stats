@@ -45,7 +45,6 @@ This project demonstrates the creation and testing of SQL user-defined functions
 
 ## 📁 Files
 
-- `SQL1.sql` – SQL file containing all UDF definitions  
-- `tests.sql` – Sample `SELECT` statements to verify output  
+- `SQL1.sql` – SQL file containing all definitions  
 - `README.md` – This documentation file
 
