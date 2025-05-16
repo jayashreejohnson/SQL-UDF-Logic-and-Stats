@@ -1,5 +1,6 @@
 # SQL Programming – User-Defined Functions for Logic & Statistics
 
+**Modular SQL functions built with IF, WHILE, and arithmetic operations to compute logic-based messages, averages, and variance in MySQL.**
 This project demonstrates the creation and testing of SQL user-defined functions (UDFs) to automate logic-based operations, statistical calculations, and modular workflows inside MySQL. It showcases control flow, loops, function chaining, and arithmetic operations.
 
 ---
